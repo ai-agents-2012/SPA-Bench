@@ -5,7 +5,7 @@
 <a href="https://arxiv.org/abs/2410.15164" style="font-size:20px;">Paper</a>
 </p>
 
-Welcome to the **SPA-BENCH** repository, a benchmark designed to evaluate the performance of smartphone-based agents. This project offers a structured approach to assessing the efficiency, robustness, and accuracy of various smartphone agents across a variety of scenarios and conditions.
+Welcome to the **SPA-BENCH** repository, a benchmark designed to evaluate the performance of smartphone agents. This project offers a structured approach to assessing the efficiency, robustness, and accuracy of various smartphone agents across a variety of scenarios and conditions.
 
 ## About SPA-BENCH
 
@@ -35,6 +35,9 @@ Welcome to the **SPA-BENCH** repository, a benchmark designed to evaluate the pe
 * **🏆 Performance Metrics**:
   * Single-app Tasks – F1-scores: **0.926 (English)**, **0.884 (Chinese)**
   * Cross-app Tasks – F1-scores: **0.833 (English)**, **0.857 (Chinese)**
+
+## News
+* [11 Oct] SPA-Bench has been accepted by the NeurIPS 2024 Workshop Open-World Agents!
 
 ## Coming Soon
 
