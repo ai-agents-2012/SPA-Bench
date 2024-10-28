@@ -1,7 +1,7 @@
 # SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION
 
 <p align="center">
-<a href="https://ai-agents-2012.github.io/SPA-Bench/" style="font-size:20px;">Website</a> •
+<a href="https://ai-agents-2030.github.io/SPA-Bench/" style="font-size:20px;">Website</a> •
 <a href="https://arxiv.org/abs/2410.15164" style="font-size:20px;">Paper</a>
 </p>
 
@@ -29,7 +29,7 @@ Welcome to the **SPA-BENCH** repository, a benchmark designed to evaluate the pe
 * **📸 Android Snapshot** – Local Environment Setup and Data Reset for Consistent Testing
 
 #### Automatic Evaluation Pipeline
-* **🔍 7 Evaluation Metrics** for a comprehensive analysis
+* **🔍 7 Evaluation Metrics** for a Comprehensive Analysis
 * **📐 Coarse-and-Fine Success Detection** – Requires No Further Human Effort
 * **🔀 Trajectory Splitting & Subtask Evaluation** – Tailored for Long-Sequence Tasks
 * **🏆 Performance Metrics**:
