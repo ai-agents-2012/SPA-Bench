@@ -1,4 +1,4 @@
-# SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION
+# SPA-Bench: A Comprehensive Benchmark for Smartphone Agent Evaluation
 
 <p align="center">
 <a href="https://ai-agents-2030.github.io/SPA-Bench/" style="font-size:20px;">Website</a> •
@@ -7,7 +7,7 @@
 
 Welcome to the **SPA-BENCH** repository, a benchmark designed to evaluate the performance of smartphone agents. This project offers a structured approach to assessing the efficiency, robustness, and accuracy of various smartphone agents across a variety of scenarios and conditions.
 
-## About SPA-BENCH
+## 🌿🪑 About SPA-BENCH
 
 **SPA-BENCH** provides a thorough evaluation framework for smartphone agents, covering key metrics and test scenarios that reflect real-world usage patterns and challenges. This benchmark supplies essential tools and datasets to support consistent evaluation of agent performance across a wide range of tasks and applications.
 
@@ -36,9 +36,9 @@ Welcome to the **SPA-BENCH** repository, a benchmark designed to evaluate the pe
   * Single-app Tasks – F1-scores: **0.926 (English)**, **0.884 (Chinese)**
   * Cross-app Tasks – F1-scores: **0.833 (English)**, **0.857 (Chinese)**
 
-## News
+## 📢 News
 * [11 Oct] SPA-Bench has been accepted by the NeurIPS 2024 Workshop Open-World Agents!
 
-## Coming Soon
+## 🚀 Coming Soon
 
 The source code and detailed documentation will be made available in the future. Stay tuned for updates!
